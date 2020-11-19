@@ -1,7 +1,14 @@
-#!/usr/bin/python3 -tt
+  
+'''
+File        : clean.py
+Date        : Wednesday 18th November 2020
+Author      : VaileyXO
+Description : Crawl web content from html file or website and write in txt file.
+Notes       : install bs4 needed
+'''
 
-#!/usr/bin/python3
-# DJS
+# Python 3
+
 import re
 import sys
 from urllib.request import urlopen
